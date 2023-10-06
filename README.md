@@ -10,6 +10,6 @@ Atualmente trabalhando como Suporte Técnico para iOS, e estudando Python por co
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) Conhecimento básico de API Rest em Flask/Python  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Básico/Intermediário (Nivel Estágio)
 
-Se quiser entrar em contato ->
-Instagram: @Gustaxou
-E-mail: gustavogomesdev@gmail.com
+Se quiser entrar em contato ->  
+Instagram: @Gustaxou  
+E-mail: gustavogomesdev@gmail.com  

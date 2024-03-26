@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 Me chamo Gustavo Gomes  
-Tenho 21 anos de idade  
+Tenho 22 anos de idade  
 Residente da Zona Leste de São Paulo - SP  
 Atualmente trabalhando como Suporte Técnico para iOS, e estudando Python por conta própria!
 
